@@ -1,0 +1,13 @@
+[package]
+name = "oxide-partition"
+version = "0.1.0"
+edition = "2021"
+description = "Data partitioning for distributed GPU processing with ternary balance"
+license = "MIT"
+repository = "https://github.com/SuperInstance/oxide-partition"
+keywords = ["gpu", "partitioning", "distributed", "consistent-hashing"]
+categories = ["algorithms", "data-structures"]
+
+[dependencies]
+
+[dev-dependencies]
